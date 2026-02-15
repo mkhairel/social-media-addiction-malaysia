@@ -18,3 +18,8 @@ This project analyses social media addiction levels among Malaysian students and
 ## Output
 A statistical dashboard visualizing addiction trends, mental health correlation, and sleep impact among Malaysian students.
 
+## Dataset
+Sources: Kaggle (Students' Social Media Addiction)
+
+## Author
+Muhamad Khairel
